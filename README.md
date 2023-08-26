@@ -8,7 +8,7 @@
 
 <br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=xuefuzhaow&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=xuefuzhao&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 XueFuzhao/XueFuzhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
